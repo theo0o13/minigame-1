@@ -4,7 +4,7 @@
 
 ### Devlog
 
-From my own words, these three words are just like art. Components are the painting, the tools that help to identify the GameObject to be alive. This means that as the GameObject contains Components, they could be physically defined as an object; without the Components, it's more like an image. GameObject is a sketch of the visual appearance of the object; this could be a player, coin, or hazard that has different textures of the image to be identified, which are shown in the Scene that people could see. The scene is the sketchbook of the game design; we need scenes to place the object and to design them.
+In my opinion, these three words are just like art. Components are the painting, the tools that help identify the GameObject as alive and detailed. This means that because a GameObject contains Components, it can be physically defined as an object; without Components, it's more like an image. GameObject is a sketch of the visual appearance of the object; this could be a player, coin, or hazard that has different textures of the image to be identified, which are shown in the Scene that people could see. The scene is the sketchbook of the game design; we need scenes to place the object and to design them. GameObjects are shown in the Scene, which support visually setting up the scene.
 
 ### Game Link:
 
